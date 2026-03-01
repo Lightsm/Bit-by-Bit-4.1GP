@@ -4,7 +4,7 @@
 ## Team Members
 - Manshi – Team Leader
 - Maisha – UI Designer (working in branch ui design)
-- Jashan – Frontend Developer (working in branch frontend build)
+- Jashan – Frontend Developer (working in branch add-table)
 
 This project is a unit page for Deakin University.
 
